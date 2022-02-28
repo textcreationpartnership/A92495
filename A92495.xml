@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a noble peer of the realm, about his late speech and petition to His Majesty</title>
+            <author>L. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92495</idno>
+            <idno type="STC">Wing S110</idno>
+            <idno type="STC">ESTC R229959</idno>
+            <idno type="EEBO-CITATION">99895748</idno>
+            <idno type="PROQUEST">99895748</idno>
+            <idno type="VID">153298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153298)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a noble peer of the realm, about his late speech and petition to His Majesty</title>
+                  <author>L. S.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Signed: L.S.</note>
+                  <note>The noble peer is Arthur Capel, Earl of Essex who presented a petition to the King against holding the new Parliament at Oxford.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Arthur Capel, --  Earl of, 1631-1683. --  Earl of Essex his speech, at the delivering the following petition to His most sacred Majesty, Jan. 25. 80 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:153298:1"/>
+            <head>A LETTER TO A NOBLE PEER OF THE REALM, About his late SPEECH and PETITION TO His Majeſty.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THo' the great eſteem I have always had as well for your Lordſhip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parts and Prudence, as your Fathers Loyalty, inclines me to make a favourable conſtruction of your Words and Actions; yet the late Speech and Petition publiſh'd under your Name, are of ſo strange a Nature, and ſo ill an Aſpect to our preſent circumſtances, that I cannot but acquaint you with my thoughts upon that unſeaſonable ſubject; where, (did I not ſee my Soveraign ſo nearly concern'd) that many do construe this to be not ſo much petitioning, as threatning His Sacred Majesty, I would have paſs'd it over, and buried my reſentments in <hi>Oblivion.</hi>
+            </p>
+            <p>I am ſorry, my Lord, you begin with ſo weak an obſervation from Histories and Records, as that many <hi>Parliaments</hi> have been unfortunate, when called at places remote from the Capital City. Did you ever obſerve how unfortunate have many <hi>Parliaments been,</hi> when called in this Capital City, or how many have been fortunate when elſewhere conveened? Do not all Writers of the late Rebel<g ref="char:EOLhyphen"/>lion, obſerve it a great overſight in His late Majeſty, not to have called His <hi>Long Parliament</hi> to <hi>York,</hi> or ſome other place remote from the City of <hi>London;</hi> where ſo many <hi>Factious Cabals</hi> were held, and ſo many <hi>Pernicious Contrivances</hi> hammered, together with the <hi>Rabbles</hi> tumultuous running to <hi>Weſtminſter-Hall,</hi> and <hi>the Common-Councils Petitioning,</hi> or rather <hi>Adviſing</hi> the King, (Me<g ref="char:EOLhyphen"/>chanicks
+<pb n="2" facs="tcp:153298:2"/>turning Politicians, and leaving their Shops and Trade, to ſit at the Helm of Government) that all wiſe men conclude, thence came the Plague of <hi>War</hi> and <hi>Deſolation</hi> upon the whole Kingdom.</p>
+            <p>But your Obſervation is not ſo weak, as your Preſidents are emphatical and my<g ref="char:EOLhyphen"/>ſterious: You inſtance three unhappy Kings, and without the leaſt ground in History, you ſeem to ſuppoſe the places of calling their Parliaments, the cauſe of their miſcarriage. I am ſure you know the contrary is manifeſt-by our most au<g ref="char:EOLhyphen"/>thentick Monuments and Records. To popular fears and jealouſies, fomented by ambitious and diſcontented Grandees; Theſe, as well as other Princes in general, owed almoſt all their troubles, as now we do in a great proportion.</p>
+            <p>To theſe <hi>Henry</hi> the <hi>2d.</hi> (by you mentioned,) owed the unnatural Broils and Distractions of his Kingdom, when they, together with <hi>Lewis</hi> King of <hi>France,</hi> incited the Son to rebel againſt the Father; in which they were thus far more excuſable than others, that the Son was no Bastard, but the undoubted Heir of the Crown, and a titular King. Theſe were in a great meaſure the chief cauſes of all the miſchiefs and miſeries of <hi>H. 3.</hi> Reign, when under the colour of redreſſing the peoples <hi>Grievances,</hi> they brought upon the Nation the greateſt <hi>Grievance</hi> of all, <hi>an inteſtine Civil War for many years together;</hi> and though they loudly pretended to fight for <hi>the Liberty of the Subject,</hi> yet themſelves were no better than ſo many Tyrants, as ancient and modern Authors teſtifie, <hi>Baker,</hi> p. <hi>86.</hi>
+            </p>
+            <p>And for <hi>H. 6th.</hi> His fate was the conſequence of his Grandfathers <g ref="char:V">Ʋ</g>ſurpa<g ref="char:EOLhyphen"/>tion; for, <hi>De male Queſitis vix gaudet tertius heres.</hi>
+            </p>
+            <p>The people at laſt, weary of their change, began to open their eyes, and think it better to ſubmit to their lawful Prince, than to a violent <g ref="char:V">Ʋ</g>ſurper; Nevertheleſs this revolution could not be effected without a great deal of difficulty, had not a gap been opened by the ambition of wicked Stateſmen, who to have the ſole manage<g ref="char:EOLhyphen"/>ment of affairs to themſelves, contrived the death of the Kings Brother, and only ſupport, the good Duke of <hi>Glouceſter;</hi> as now ſome conſpire against his R. H. the better to enable themſelves to diſpoſe of the King as they pleaſe.</p>
+            <p>Thus for your Speech, but your Petition runs a little further.</p>
+            <p>In the firſt place, you aggravate the dangers of <hi>Popery,</hi> of which all true <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> are ſufficiently apprehenſive; yet withal, My Lord, be not deceived, we know too well the Proceedings of ſome Perſons, who are influenced, and often miſ<g ref="char:EOLhyphen"/>led by thoſe that hate the Name, but (as to themſelves) love the practice of Arbitrary Power; that pretended to stand for the Church of <hi>England,</hi> but really advanced Faction; In fine, that would fain perſwade us they love the King, though by their actions any man of ſenſe may perceive how little they care for His Government.</p>
+            <p>You are troubled, it ſeems, that the next Parliament is to meet at <hi>Oxford, where</hi> (you ſay) <hi>neither Lords nor Commons can be in ſafety, but will be dayly expoſed to the Swords of the</hi> Papiſts <hi>and their adherents. Of whom too many have crept into His Majeſties Guards.</hi> Do you know, my Lord, anie ſuch <hi>Papiſts</hi> now in the Guards? If you do, 'tis all our duty to our King and Countrey to have them ſecured: If not, 'tis a groundleſſe ſurmiſe and a frivolous pretence, unfit to be mentioned by Perſons of Honour. Certain it is, we have more reaſon to believe our Noble Petitioners inclining to Diſ<g ref="char:EOLhyphen"/>ſention, than His Majeſties Guards inclined to <hi>Popery;</hi> for the latter do openly proteſt againſt all Papiſts, the former do zealouſly ſollicite for the Phanaticks, endeavouring to unite them to the Church of <hi>England,</hi> not by their coming to us,
+<pb n="3" facs="tcp:153298:2"/>but ours to them, we loſing our Ground, and they ſtill keeping their own. Beſides, we know, the latter have often taken Teſts and Oaths againſt the Innovations of <hi>Po<g ref="char:EOLhyphen"/>pery,</hi> but I could never find that the former took any againſt the Novelties of <hi>Schiſm.</hi>
+            </p>
+            <p>If His Majeſtie thinks himſelf ſecure at <hi>Oxford,</hi> and doubts not to commit His Sacred Perſon to his Guards; what reaſon have you to apprehend any danger? Sure, 'tis his Majeſties Death, not yours, the Papiſts have hitherto deſigned; how then can you be ſo apprehenſive, while he is ſecure?</p>
+            <p>As for the Kings Evidence, I doubt not but they will chearfully endure a little inconvenience, to make an end of this execrable Plot. 'Tis an advantage moſt of them have, to endure the greateſt hardſhip, which now, I am confident, they will not decline to conſummate the great work they have ſo well begun.</p>
+            <p>My Lord, I wiſh as heartily as any one in <hi>England,</hi> the frequent meetings of Parliament, and the good correſpondence of King and People; I am perhaps as much concerned as another, to have the Libertie of the Subject preſerved inviolable. Yet, when I ſee thoſe that ſhould be preſervers of this Libertie, firſt invade it, and endeavour to Monopolize Arbitrarie Power to themſelves, I think ſelf-preſervation allows me to oppoſe them. 'Tis a true ſaying, <hi>corruptio optimi peſſima,</hi> and ex<g ref="char:EOLhyphen"/>perience tells us, That Parliaments may erre as well as Kings.</p>
+            <p>I will conclude, with a ſhort reflection on ſome tranſactions preceding the <hi>Long Parliament,</hi> in the late Kings Reign; where it is obſervable, that his Majestie finding his Parliaments ſtill retrograde, and bent rather to foment than compoſe the differences of the Kingdom, in <hi>September 40.</hi> He ſummon'd the great Coun<g ref="char:EOLhyphen"/>cil of His Peers, to conſult about the weightie Affairs of the Nation: <hi>But this</hi> (ſaith a late Historian) <hi>was not very well lik'd by thoſe who favour'd the</hi> Scots, <hi>whoſe chief Deſigne aim'd at the calling of a Parliament, which they fear'd the meeting of the Peers might prevent. Wherefore the Earls of</hi> Bedford, Hertford, Eſſex, Warwick, Mouldgrave, Bullingbrook <hi>and</hi> Briſtol, <hi>the Lords</hi> Say, Brook, Paget, Mandavile, <hi>and the Lord</hi> Edward Howard <hi>preſented a Petition to the King, repreſenting many great Diſtempers and Dangers, threatning the Church and State, and His Royal Perſon; as ſundry Innova<g ref="char:EOLhyphen"/>tions in matters of Religion; Increaſe of Popery, by employing Papiſts in places of Truſt; The great miſchief that might enſue, if the Forces rais'd in</hi> Ireland <hi>ſhould be brought into</hi> England, <hi>&amp;c. For remedy whereof, they pray, that a Parliament might be ſummon'd, to redreſs theſe grievances, and puniſh the Authors; and likewiſe to compoſe the War with</hi> Scotland <hi>without Blood, and unite both Kingdoms againſt the common Enemy of the Reform<g ref="char:EOLhyphen"/>ed Religion.</hi>
+            </p>
+            <p>And this was ſeconded by another Petition of the Common Council of <hi>London,</hi> to the ſame effect, ſee <hi>Baker, p. 470.</hi>
+            </p>
+            <p>Theſe, my Lord, were as fair pretences, and as plauſible inducements, to have a Parliament then called, as any can offer at preſent; and yet the world knows what pernicious Deſigns were then a hatching againſt the King and Government, by thoſe verie perſons that promoted that Petition; and happie were His Majeſtie, had he rejected their importunity. <hi>To every thing there is a ſeaſon,</hi> ſaith the wiſe Man; and without doubt, there is a ſeaſon for Petitioning. 'Tis certainly our duty, with all humility, to beg of our Soveraign what we think neceſſarie or convenient for the publick good; yet for to preſs him to it, when he declares againſt it for good reaſons, (as we ought to ſuppoſe) is a very great preſumption, not to be endured in a Sub<g ref="char:EOLhyphen"/>ject. If the Laws have ſettled in the King the abſolute power of calling, adjourn<g ref="char:EOLhyphen"/>ing,
+<pb n="4" facs="tcp:153298:3" rendition="simple:additions"/>proroguing and diſſolving his Parliament, when, and where he pleaſes, ſhall we be wiſer than the Laws, and limit our Princes Will?</p>
+            <p>Beſides, when diſcontented Stateſmen are found the promoters of ſuch Petitions, 'tis natural to ſuſpect they do it for ſome ſiniſter Deſign, <hi>Timeo Danaos &amp; dona ferentes.</hi> If the great Politician <hi>Achitophel</hi> hang'd himſelf through diſcontent, becauſe his Counſel was not followed, we cannot in prudence but think others will leave no ſtone unremoved to ſatisfie their paſſion. There are ſome Weathercocks in the World, who had a hand in all the Revolutions of their time, <hi>modo harum, modo illarum partium,</hi> but never faithful to any; If your Lordſhip be ſo far overſeen as to join with theſe, they will undoubtedly leave you in the lurch, when 'tis too late to repent. Therefore in time conſider the Wiſe mans advice: <hi>My Son, fear thou the Lord and the King, and meddle not with them that are given to change; for their calamity ſhall riſe ſuddenly, and who know<g ref="char:EOLhyphen"/>eth the ruine of them both?</hi> Prov. <hi>24.21.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>I am, Your Lordſhips real well-wiſher, and humble Servant,</hi> L. S.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
